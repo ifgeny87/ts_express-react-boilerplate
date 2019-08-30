@@ -1,0 +1,4 @@
+# IDE & cache
+.idea/
+node_modules/
+dist/
